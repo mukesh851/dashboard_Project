@@ -1,0 +1,32 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Security Score",
+            "content": "This is a security score widget"
+          },
+          {
+            "id": 2,
+            "name": "Compliance Status",
+            "content": "This is a compliance status widget"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Operational Dashboard",
+        "widgets": [
+          {
+            "id": 3,
+            "name": "Resource Utilization",
+            "content": "This is a resource utilization widget"
+          }
+        ]
+      }
+    ]
+  }
+  
